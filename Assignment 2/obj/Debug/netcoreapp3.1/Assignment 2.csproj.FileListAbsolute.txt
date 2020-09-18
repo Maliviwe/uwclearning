@@ -1,0 +1,13 @@
+/home/codespace/workspace/uwclearning/Assignment 2/bin/Debug/netcoreapp3.1/Assignment 2
+/home/codespace/workspace/uwclearning/Assignment 2/bin/Debug/netcoreapp3.1/Assignment 2.deps.json
+/home/codespace/workspace/uwclearning/Assignment 2/bin/Debug/netcoreapp3.1/Assignment 2.runtimeconfig.json
+/home/codespace/workspace/uwclearning/Assignment 2/bin/Debug/netcoreapp3.1/Assignment 2.runtimeconfig.dev.json
+/home/codespace/workspace/uwclearning/Assignment 2/bin/Debug/netcoreapp3.1/Assignment 2.dll
+/home/codespace/workspace/uwclearning/Assignment 2/bin/Debug/netcoreapp3.1/Assignment 2.pdb
+/home/codespace/workspace/uwclearning/Assignment 2/obj/Debug/netcoreapp3.1/Assignment 2.csprojAssemblyReference.cache
+/home/codespace/workspace/uwclearning/Assignment 2/obj/Debug/netcoreapp3.1/Assignment 2.AssemblyInfoInputs.cache
+/home/codespace/workspace/uwclearning/Assignment 2/obj/Debug/netcoreapp3.1/Assignment 2.AssemblyInfo.cs
+/home/codespace/workspace/uwclearning/Assignment 2/obj/Debug/netcoreapp3.1/Assignment 2.csproj.CoreCompileInputs.cache
+/home/codespace/workspace/uwclearning/Assignment 2/obj/Debug/netcoreapp3.1/Assignment 2.dll
+/home/codespace/workspace/uwclearning/Assignment 2/obj/Debug/netcoreapp3.1/Assignment 2.pdb
+/home/codespace/workspace/uwclearning/Assignment 2/obj/Debug/netcoreapp3.1/Assignment 2.genruntimeconfig.cache
